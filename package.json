@@ -1,0 +1,18 @@
+{
+  "name": "@dwdarm/num-format",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/num-format.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "babel src -d lib"
+  },
+  "author": "Fajar Dwi Darmanto",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "mocha": "^7.1.0"
+  }
+}
