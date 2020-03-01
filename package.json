@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "lib/num-format.js",
+  "repository": "dwdarm/num-format",
   "scripts": {
     "test": "mocha",
     "build": "babel src -d lib"
