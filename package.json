@@ -1,6 +1,6 @@
 {
   "name": "@dwdarm/num-format",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/num-format.js",
   "repository": "dwdarm/num-format",
