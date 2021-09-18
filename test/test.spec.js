@@ -1,8 +1,6 @@
 const assert = require('assert');
 const sources =  {
   ['src/num-format.js']: require('../src/num-format.js'),
-  ['/lib/num-format.js']: require('../lib/num-format.js'),
-  ['/lib/num-format.min.js']: require('../lib/num-format.min.js')
 }
 
 describe('numFormat test', () => {
