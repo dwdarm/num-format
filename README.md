@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/dwdarm/num-format.svg?branch=master)](https://app.travis-ci.com/dwdarm/num-format)
+<br />
 # num-format
 Convert numbers like 1,000, 1,000,000, and 1,000,000,000 into the form of "1k", "1m", and "1b".
 
